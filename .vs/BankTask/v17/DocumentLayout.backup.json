@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\c#\\New folder\\BankTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{482D6B8B-8145-46B0-99A4-9C14B86E1D62}|BankTask.csproj|c:\\users\\admin\\desktop\\c#\\new folder\\banktask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{482D6B8B-8145-46B0-99A4-9C14B86E1D62}|BankTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482D6B8B-8145-46B0-99A4-9C14B86E1D62}|BankTask.csproj|c:\\users\\admin\\desktop\\c#\\new folder\\banktask\\bankaccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{482D6B8B-8145-46B0-99A4-9C14B86E1D62}|BankTask.csproj|solutionrelative:bankaccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccounts.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\New folder\\BankTask\\BankAccounts.cs",
+              "RelativeDocumentMoniker": "BankAccounts.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\New folder\\BankTask\\BankAccounts.cs*",
+              "RelativeToolTip": "BankAccounts.cs*",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwDAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T12:31:46.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\c#\\New folder\\BankTask\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\c#\\New folder\\BankTask\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAABYAAAAAQzMzMzP7vyMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T12:30:52.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

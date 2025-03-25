@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\c#\New folder\BankTask\bin\Debug\net8.0\BankTask.exe
+C:\Users\Admin\Desktop\c#\New folder\BankTask\bin\Debug\net8.0\BankTask.deps.json
+C:\Users\Admin\Desktop\c#\New folder\BankTask\bin\Debug\net8.0\BankTask.runtimeconfig.json
+C:\Users\Admin\Desktop\c#\New folder\BankTask\bin\Debug\net8.0\BankTask.dll
+C:\Users\Admin\Desktop\c#\New folder\BankTask\bin\Debug\net8.0\BankTask.pdb
+C:\Users\Admin\Desktop\c#\New folder\BankTask\obj\Debug\net8.0\BankTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\c#\New folder\BankTask\obj\Debug\net8.0\BankTask.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\c#\New folder\BankTask\obj\Debug\net8.0\BankTask.AssemblyInfo.cs
+C:\Users\Admin\Desktop\c#\New folder\BankTask\obj\Debug\net8.0\BankTask.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c#\New folder\BankTask\obj\Debug\net8.0\BankTask.dll
+C:\Users\Admin\Desktop\c#\New folder\BankTask\obj\Debug\net8.0\refint\BankTask.dll
+C:\Users\Admin\Desktop\c#\New folder\BankTask\obj\Debug\net8.0\BankTask.pdb
+C:\Users\Admin\Desktop\c#\New folder\BankTask\obj\Debug\net8.0\BankTask.genruntimeconfig.cache
+C:\Users\Admin\Desktop\c#\New folder\BankTask\obj\Debug\net8.0\ref\BankTask.dll
